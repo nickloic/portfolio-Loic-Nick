@@ -52,7 +52,7 @@ export default function Acceuil() {
                             <a href='https://x.com/Nicktipma/' target='blank'>
                                 <FaIcons.FaTwitter />
                             </a>
-                            <a href='https://wa.me/698633761' target='blank'>
+                            <a href='https://wa.me/698633761'>
                                 <FaIcons.FaWhatsapp />
                             </a>
                             <a href='mailto:nicktipma22@gmail.com' target=''>
